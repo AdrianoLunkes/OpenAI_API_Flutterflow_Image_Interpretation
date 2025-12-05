@@ -226,9 +226,9 @@ Text prompt → Image output
 
 Generated image displayed inside Flutterflow using Image.network()
 
-(Optional extension for this case.)
 
-Conclusion
+
+# Conclusion
 
 The Image Interpretation: Visual Helper project demonstrates how to:
 
